@@ -1,5 +1,5 @@
 
-![DIY Notebook Logo](logo.svg)
+![DIY Notebook Logo](assets/logo.svg)
 
 # DIY Notebook - Hack your E-Reader, Make reading and journaling a one-stop shop
 ![Banner](assets/Banner.png)
@@ -7,7 +7,7 @@
 Welcome to the DIY Notebook project! This project is designed to collect resources around portable literacy and help you create a combined e-reader and physical notebook, enhancing your reading and journaling experiences by merging digital and physical mediums into one portable device.
 
 [![image](assets/ButtonMedium.svg)](https://medium.com/@philwornath/diy-hack-the-minimum-viable-note-book-14af3ddf46d7)
-[![image](assets/ButtonDownload.svg)](2024_DIYNotebook.pdf)
+[![image](assets/ButtonDownload.svg)](assets/2024_DIYNotebook.pdf)
 
 
 
