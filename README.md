@@ -5,7 +5,7 @@
 
 Welcome to the DIY Notebook project! This project is designed to collect resources around portable literacy and help you create a combined e-reader and physical notebook, enhancing your reading and journaling experiences by merging digital and physical mediums into one portable device.
 
-![Banner](banner.png)
+![Banner](assets/Banner.png)
 
 <!-- Download guide as PDF: [DIY Notebook Guide](2024_DIYNotebook.pdf) -->
 [![image](assets/ButtonDownload.svg)](2024_DIYNotebook.pdf)
