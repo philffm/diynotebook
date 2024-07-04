@@ -9,8 +9,6 @@ Welcome to the DIY Notebook project! This project is designed to collect resourc
 [![image](assets/ButtonMedium.svg)](https://medium.com/@philwornath/diy-hack-the-minimum-viable-note-book-14af3ddf46d7)
 [![image](assets/ButtonDownload.svg)](assets/2024_DIYNotebook.pdf)
 
-
-
 ## Overview
 
 This project aims to:
