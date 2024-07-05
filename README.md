@@ -1,6 +1,8 @@
 
 ![DIY Notebook Logo](assets/logo.svg)
 
+
+
 # DIY Notebook - Hack your E-Reader, Make reading and journaling a one-stop shop
 ![Banner](assets/Banner.png)
 
@@ -8,6 +10,21 @@ Welcome to the DIY Notebook project! This project is designed to collect resourc
 
 [![image](assets/ButtonMedium.svg)](https://medium.com/@philwornath/diy-hack-the-minimum-viable-note-book-14af3ddf46d7)
 [![image](assets/ButtonDownload.svg)](assets/2024_DIYNotebook.pdf)
+[![image](/assets/ButtonPH.svg)](https://www.producthunt.com/posts/diy-notebook-reading-writing-hack)
+
+As a UX Designer I often get bored by digital products which sometimes are only created to distract from real world - or make us buy more physical products more easily. 
+
+As a designer, I want to create meaningful experiences, stimulate good habits and act resourcefully aligned with our environment.
+
+My issues were that I needed a better trigger to start reading and journaling - making both activities as accessible as my phone. So I combined my e-reader with a physical notebook - a one-stop shop for reading and journaling.
+A super simple hack - but people kept on asking me about it - so I decided to share it with you.
+
+This project shows that sometimes the best solution is a combination of calm technology and analog products - and that we can create them ourselves. 
+
+It is an idea, a framework - not a polished product. But the IKEA effect shows: We enjoy building things ourselves anyways. It works for me - and I hope it works for you - and maybe there is an industrial designer who wants to collaborate on a more polished version.
+
+
+Let me know what you think - and shape reading and journaling habits globally - let's work against the digital distraction and for a more mindful and sustainable future. 
 
 ## Overview
 
