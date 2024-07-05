@@ -32,16 +32,18 @@ This project aims to:
 
 ## Materials Compatibility
 
-| Material          | Lightweight & Thin | More Features | Untested/Not Compatible with All Cases |
-|-------------------|:------------------:|:-------------:|:-------------------------------------:|
-| **Notebooks**     |                    |               |                                       |
-| A6 / 60 pages     | 🟢                 | 🟠            |                                       |
-| A6 / 160 pages    |                    | 🟢            |                                       |
-| A6 / 80 pages     |                    |               | 🟠                                    |
-| **Attachment**    |                    |               |                                       |
-| Duct tape         | 🟢                 | 🟢            |                                       |
-| Velcro tape       | 🟢                 | 🟢            |                                       |
-| Glue-in magnets   | 🟠                 | 🟠            |                                       |
+| Material        | Compatibility Score | Pros                                | Cons                              |
+|-----------------|:-------------------:|-------------------------------------|-----------------------------------|
+| **Notebooks**   |                     |                                     |                                   |
+| A6 / 60 pages   | 🟢 100%             | Lightweight & Thin                  |                                   |
+| A6 / 160 pages  | 🟢 90%              | More Features                       | Slightly heavier                  |
+| A6 / 80 pages   | 🟠 50%              | Untested                            | Not compatible with all cases     |
+| **Attachment**  |                     |                                     |                                   |
+| Duct tape       | 🟢 100%             | Lightweight & Thin                  |                                   |
+| Velcro tape     | 🟢 90%              | Detachable & Less Waste             | Slightly bulkier                  |
+| Glue-in magnets | 🟠 50%              | Fancy                               | Adds weight, needs more testing   |
+
+Feel free to experiment with different materials and combinations, find the best solution for your needs and create a pull request.
 
 ## How to Share Your Design
 
