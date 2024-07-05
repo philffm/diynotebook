@@ -1,30 +1,26 @@
-
 ![DIY Notebook Logo](assets/logo.svg)
-
-
 
 # DIY Notebook - Hack your E-Reader, Make reading and journaling a one-stop shop
 ![Banner](assets/Banner.png)
 
 Welcome to the DIY Notebook project! This project is designed to collect resources around portable literacy and help you create a combined e-reader and physical notebook, enhancing your reading and journaling experiences by merging digital and physical mediums into one portable device.
 
-[![image](assets/ButtonMedium.svg)](https://medium.com/@philwornath/diy-hack-the-minimum-viable-note-book-14af3ddf46d7)
-[![image](assets/ButtonDownload.svg)](assets/2024_DIYNotebook.pdf)
-[![image](/assets/ButtonPH.svg)](https://www.producthunt.com/posts/diy-notebook-reading-writing-hack)
+[![Medium](assets/ButtonMedium.svg)](https://medium.com/@philwornath/diy-hack-the-minimum-viable-note-book-14af3ddf46d7)
+[![Download](assets/ButtonDownload.svg)](assets/2024_DIYNotebook.pdf)
+[![Product Hunt](assets/ButtonPH.svg)](https://www.producthunt.com/posts/diy-notebook-reading-writing-hack)
 
-As a UX Designer I often get bored by digital products which sometimes are only created to distract from real world - or make us buy more physical products more easily. 
+As a UX Designer, I often get bored by digital products that sometimes are only created to distract from the real world - or make us buy more physical products more easily.
 
-As a designer, I want to create meaningful experiences, stimulate good habits and act resourcefully aligned with our environment.
+As a designer, I want to create meaningful experiences, stimulate good habits, and act resourcefully aligned with our environment.
 
 My issues were that I needed a better trigger to start reading and journaling - making both activities as accessible as my phone. So I combined my e-reader with a physical notebook - a one-stop shop for reading and journaling.
 A super simple hack - but people kept on asking me about it - so I decided to share it with you.
 
-This project shows that sometimes the best solution is a combination of calm technology and analog products - and that we can create them ourselves. 
+This project shows that sometimes the best solution is a combination of calm technology and analog products - and that we can create them ourselves.
 
-It is an idea, a framework - not a polished product. But the IKEA effect shows: We enjoy building things ourselves anyways. It works for me - and I hope it works for you - and maybe there is an industrial designer who wants to collaborate on a more polished version.
+It is an idea, a framework - not a polished product. But the IKEA effect shows: We enjoy building things ourselves anyway. It works for me - and I hope it works for you - and maybe there is an industrial designer who wants to collaborate on a more polished version.
 
-
-Let me know what you think - and shape reading and journaling habits globally - let's work against the digital distraction and for a more mindful and sustainable future. 
+Let me know what you think - and shape reading and journaling habits globally - let's work against digital distraction and for a more mindful and sustainable future.
 
 ## Overview
 
@@ -34,37 +30,18 @@ This project aims to:
 - Encourage mindful, distraction-free activities.
 - Provide a portable, lightweight solution for combining an e-reader and notebook.
 
-## Materials Needed
+## Materials Compatibility
 
-- **Notebooks**: A6 size (10x14cm)
-  - 60 pages (lightweight and thin)
-  - 160 pages (more features)
-  - 80 pages (untested, not compatible with all cases)
-- **Attachment Methods**:
-  - Duct tape (lightweight and thin)
-  - Velcro tape (detachable, less waste)
-  - Glue-in magnets (fancy but adds weight, needs more testing)
-- **E-reader**: Kindle or similar device
-
-## Step-by-Step Guide
-
-### 1. Purchase Notebooks
-
-Choose an A6-sized notebook with dimensions of 10x14cm. You have three options:
-- **60 pages**: Lightweight and thin.
-- **160 pages**: More features.
-- **80 pages**: Untested and not compatible with all cases.
-
-### 2. Put It Together
-
-Select one of the following materials to attach your notebook to your e-reader:
-- **Duct tape**: Lightweight and thin.
-- **Velcro tape**: Detachable and creates less waste.
-- **Glue-in magnets**: Fancy but adds weight and needs more testing.
-
-### 3. Enjoy Reading and Journaling on the Go
-
-Combine the notebook and e-reader for a unified, portable, and distraction-free experience.
+| Material          | Lightweight & Thin | More Features | Untested/Not Compatible with All Cases |
+|-------------------|:------------------:|:-------------:|:-------------------------------------:|
+| **Notebooks**     |                    |               |                                       |
+| A6 / 60 pages     | 🟢                 | 🟠            |                                       |
+| A6 / 160 pages    |                    | 🟢            |                                       |
+| A6 / 80 pages     |                    |               | 🟠                                    |
+| **Attachment**    |                    |               |                                       |
+| Duct tape         | 🟢                 | 🟢            |                                       |
+| Velcro tape       | 🟢                 | 🟢            |                                       |
+| Glue-in magnets   | 🟠                 | 🟠            |                                       |
 
 ## How to Share Your Design
 
