@@ -1,7 +1,7 @@
-![DIY Notebook Logo](assets/logo.svg)
 
-# DIY Notebook - Hack your E-Reader, Make reading and journaling a one-stop shop
 ![Banner](assets/Banner.png)
+# DIY Notebook - Hack your E-Reader, Make reading and journaling a one-stop shop
+
 
 Welcome to the DIY Notebook project! This project is designed to collect resources around portable literacy and help you create a combined e-reader and physical notebook, enhancing your reading and journaling experiences by merging digital and physical mediums into one portable device.
 
@@ -65,3 +65,5 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 **Happy reading and journaling!**
 
 *Created by Phil Wornath*
+
+![DIY Notebook Logo](assets/logo.svg)
